@@ -1,0 +1,17 @@
+title: Hendrik Roth, a full stack developer
+email: hi@hendrikroth.com
+description: >
+  Hendrik Roth, a full stack web developer living in Dortmund, Germany.
+  Everything about JavaScript is my thing: MithrilJS, ReactJS, AngularJS and NodeJS/ExpressJS.
+baseurl: ""
+url: "https://hendrikroth.com"
+
+twitter_username: hendrik_roth
+github_username:  hendrikroth
+codepen_username: hendrikroth
+disqus_username: hendrikroth
+
+codepen_theme: light
+codepen_height: 500
+
+markdown: kramdown
